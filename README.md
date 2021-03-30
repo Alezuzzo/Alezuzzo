@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Thalles!
-- Trabalho como desenvolvedor frontend e mobile. Totalmente focado na stack de Javascript, utilizando react, react-native e apaixonado por UI Design. 😄
 
  <a href="https://www.linkedin.com/in/thalles-alexsander-faria-muzzo-76baa41a9/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,13 +15,13 @@
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
 </a>
  <a> 
-   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="REACT" height="75" width="75" />
+   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/html.png" alt="HTML" height="75" width="75" />
  </a>
  <a> 
-    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/node.png" alt="SASS" height="75" width="75" />
+    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" alt="SASS" height="75" width="75" />
   </a>
   <a> 
-  <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="SASS" height="75" width="75" />
+  <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/bootstrap.png" alt="SASS" height="75" width="75" />
    </a>
   <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="SASS" height="75" width="75" />
