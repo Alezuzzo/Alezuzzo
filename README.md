@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thalles!
 - Trabalho como desenvolvedor frontend e mobile. Totalmente focado na stack de Javascript, utilizando react, react-native e apaixonado por UI Design. 😄
 
- <a href="https://www.linkedin.com/in/l%C3%A9o-gonzaga-00b618150/"  target="_blank" >
+ <a href="https://www.linkedin.com/in/thalles-alexsander-faria-muzzo-76baa41a9/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  </br>
