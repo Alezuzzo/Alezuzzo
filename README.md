@@ -1,4 +1,4 @@
-### Oi, eu sou o Thalles Alexsander!
+### Hi, i'm Thalles Alexsander!
 
 
 <div style="display:flex">
