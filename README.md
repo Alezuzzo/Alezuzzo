@@ -9,25 +9,25 @@
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
 </a>
  <a> 
-   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/html.png" alt="HTML" height="75" width="75" />
+   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="HTML" height="75" width="75" />
  </a>
  <a> 
-    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/css.png" alt="SASS" height="75" width="75" />
+    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/tailwind.png" alt="SASS" height="75" width="75" />
   </a>
-  <a> 
+ <a> 
+   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="SASS" height="75" width="75" />
+  </a>
+ <a> 
+   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/python.png" alt="SASS" height="75" width="75" />
+  </a>
+ <a> 
   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/bootstrap.png" alt="SASS" height="75" width="75" />
    </a>
- <a> 
-   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/materialize.png" alt="SASS" height="75" width="75" />
-  </a>
   <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="SASS" height="75" width="75" />
   </a>
  <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/adobe_photoshop.png" alt="SASS" height="75" width="75" />
-  </a>
- <a> 
-   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/adobe_xd.png" alt="SASS" height="75" width="75" />
   </a>
 </div>
 
