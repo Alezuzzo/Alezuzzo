@@ -5,9 +5,6 @@
  <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/git.png" alt="SASS" height="75" width="75" />
   </a>
-<a> 
-   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
-</a>
  <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="HTML" height="75" width="75" />
  </a>
@@ -17,6 +14,9 @@
  <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="SASS" height="75" width="75" />
   </a>
+ <a> 
+   <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
+</a>
  <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/python.png" alt="SASS" height="75" width="75" />
   </a>
