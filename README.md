@@ -12,8 +12,7 @@ Apaixonado por transformar ideias em realidade!
 
 ⚡ Curiosidade: Nas horas vagas, gosto de criar artes e compor músicas! Você pode ouvir minhas composições no Spotify.
 
-💻 Tecnologias e Ferramentas
-Estas são as tecnologias que mais utilizo no meu dia a dia:
+💻 Estas são as tecnologias que mais utilizo no meu dia a dia:
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="React" height="75" width="75" />
