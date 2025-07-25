@@ -1,6 +1,5 @@
 Olá, eu sou Thalles Alexsander! 👋
 
-🚀 Sobre Mim
 Sou estudante de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI) e atuo como Desenvolvedor Front-End Freelancer.
 
 Apaixonado por transformar ideias em realidade!
