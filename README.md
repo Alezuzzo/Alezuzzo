@@ -37,8 +37,6 @@ Estas são as tecnologias que mais utilizo no meu dia a dia:
 </a>
 </p>
 
-Importante: Não se esqueça de substituir SEU-USUARIO-AQUI pelo seu nome de usuário do GitHub nos links acima para que as estatísticas funcionem!
-
 📫 Conecte-se Comigo
 <p align="center">
 <a href="https://www.linkedin.com/in/thalles-alexsander-faria-muzzo-76baa41a9/" target="_blank">
