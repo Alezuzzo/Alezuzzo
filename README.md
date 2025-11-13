@@ -4,13 +4,9 @@ Sou estudante de Sistemas de Informação na Universidade Federal de Itajubá (U
 
 Apaixonado por transformar ideias em realidade!
 
-🌱 Atualmente estou aprofundando meus conhecimentos em Express.js e no ecossistema back-end, além de continuar em um desenvolvimento contínuo em React e ferramentas Front-end.
+Fique à vontade para me perguntar sobre React, TypeScript, Tailwind CSS e desenvolvimento front-end.
 
-💬 Fique à vontade para me perguntar sobre React, TypeScript, Tailwind CSS e desenvolvimento front-end.
-
-📫 Você pode me encontrar no e-mail thallesander@hotmail.com ou pelo LinkedIn.
-
-⚡ Curiosidade: Nas horas vagas, gosto de criar artes e compor músicas! Você pode ouvir minhas composições no Spotify.
+Você pode me encontrar no e-mail thallesander@hotmail.com ou pelo LinkedIn.
 
 💻 Estas são as tecnologias que mais utilizo no meu dia a dia:
 
