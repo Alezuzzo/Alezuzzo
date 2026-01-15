@@ -21,16 +21,6 @@ Você pode me encontrar no e-mail thallesander@hotmail.com ou pelo LinkedIn.
 <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/adobe_photoshop.png" alt="Photoshop" height="75" width="75" />
 </div>
 
-📊 Estatísticas do GitHub
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alezuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alezuzzo&layout=compact&langs_count=8&theme=dracula" />
-</a>
-</p>
-
 📫 Conecte-se Comigo
 <p align="center">
 <a href="https://www.linkedin.com/in/thalles-alexsander-faria-muzzo-76baa41a9/" target="_blank">
