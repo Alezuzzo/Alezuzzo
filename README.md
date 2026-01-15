@@ -4,8 +4,7 @@ Sou estudante de Sistemas de Informação na Universidade Federal de Itajubá (U
 
 Apaixonado por transformar ideias em realidade!
 
-Fique à vontade para me perguntar sobre React, TypeScript, Tailwind CSS e desenvolvimento front-end.
-
+Fique à vontade para me perguntar sobre React, TypeScript, Tailwind CSS e desenvolvimento em geral.
 Você pode me encontrar no e-mail thallesander@hotmail.com ou pelo LinkedIn.
 
 💻 Estas são as tecnologias que mais utilizo no meu dia a dia:
