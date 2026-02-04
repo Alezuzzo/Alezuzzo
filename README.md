@@ -1,11 +1,11 @@
 Olá, eu sou Thalles Alexsander! 👋
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI) e atuo como Desenvolvedor Front-End Freelancer.
+Sou estudante de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI) e atuo como Desenvolvedor Full stack Freelancer.
 
 Apaixonado por transformar ideias em realidade!
 
 Fique à vontade para me perguntar sobre React, TypeScript, Tailwind CSS e desenvolvimento em geral.
-Você pode me encontrar no e-mail thallesander@hotmail.com ou pelo LinkedIn.
+Você pode me encontrar no e-mail thallesanderdev@gmail.com ou pelo LinkedIn.
 
 💻 Estas são as tecnologias que mais utilizo no meu dia a dia:
 
